@@ -12,8 +12,10 @@ Here you find some of my personal projects.
 * :light_rail: https://github.com/jo-m/gohafas
 * :collision: https://github.com/jo-m/linux-wifi-ota-crash
 
-![trainbot](https://github.com/jo-m/trainbot/blob/master/pkg/stitch/testdata/test1.jpg)
+![trainbot](https://github.com/jo-m/trainbot/blob/master/demo.gif)
 ![gocatprint](https://github.com/jo-m/gocatprint/blob/master/demo.gif)
+![trainbot](https://github.com/jo-m/trainbot/blob/master/pkg/stitch/testdata/test1.jpg)
+![trainbot](https://github.com/jo-m/trainbot/blob/master/pkg/stitch/testdata/test2.jpg)
 
 ## And a bit older
 
