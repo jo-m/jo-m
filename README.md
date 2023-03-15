@@ -15,13 +15,13 @@ Here you can find a selection of my toy projects:
 &nbsp;
 
 <a href="https://github.com/jo-m/trainbot/blob/master/pkg/stitch/testdata/test1.jpg">
-  <img align="center" src="https://github.com/jo-m/trainbot/blob/master/pkg/stitch/testdata/test1.jpg" />
+  <img align="center" src="https://github.com/jo-m/trainbot/blob/master/internal/pkg/stitch/testdata/test1.jpg" />
 </a>
 
 &nbsp;
 
 <a href="https://github.com/jo-m/trainbot/blob/master/pkg/stitch/testdata/test2.jpg">
-  <img align="center" src="https://github.com/jo-m/trainbot/blob/master/pkg/stitch/testdata/test2.jpg" />
+  <img align="center" src="https://github.com/jo-m/trainbot/blob/master/internal/pkg/stitch/testdata/test2.jpg" />
 </a>
 
 ## Waterfall plot
