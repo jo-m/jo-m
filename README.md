@@ -42,7 +42,7 @@ Article: https://jo-m.ch/posts/2017/01/3d-waterfall-plot-in-webgl/
 
 Demo: https://jo-m.ch/repos/waterfall-plot-webgl/
 
-## Various Go Apps and Libs
+## Some Go Apps and Libs
 
 <a href="https://github.com/jo-m/gocatprint">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jo-m&repo=gocatprint" />
