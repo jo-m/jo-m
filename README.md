@@ -2,7 +2,7 @@
 
 Here you can find a selection of my toy projects:
 
-## trainbot
+## Trainbot <https://trains.jo-m.ch/>
 
 <a href="https://github.com/jo-m/trainbot">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jo-m&repo=trainbot" />
