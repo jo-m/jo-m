@@ -1,6 +1,6 @@
 # Hi!
 
-Here you can find a selection of my toy projects:
+My toy projects:
 
 ## Trainbot <https://trains.jo-m.ch/>
 
