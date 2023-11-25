@@ -12,18 +12,6 @@ Here you can find a selection of my toy projects:
   <img align="center" src="https://github.com/jo-m/trainbot/blob/master/demo.gif" width="150" />
 </a>
 
-&nbsp;
-
-<a href="https://github.com/jo-m/trainbot/blob/master/pkg/stitch/testdata/day.jpg">
-  <img align="center" src="https://github.com/jo-m/trainbot/blob/master/internal/pkg/stitch/testdata/set0/day.jpg" />
-</a>
-
-&nbsp;
-
-<a href="https://github.com/jo-m/trainbot/blob/master/pkg/stitch/testdata/night.jpg">
-  <img align="center" src="https://github.com/jo-m/trainbot/blob/master/internal/pkg/stitch/testdata/set0/night.jpg" />
-</a>
-
 ## Waterfall plot
 
 <a href="https://github.com/jo-m/waterfall-plot-webgl">
@@ -37,10 +25,6 @@ Here you can find a selection of my toy projects:
 <a href="https://github.com/jo-m/waterfall-plot-webgl/blob/master/demo.gif">
   <img src="https://github.com/jo-m/waterfall-plot-webgl/blob/master/demo.gif" />
 </a>
-
-Article: https://jo-m.ch/posts/2017/01/3d-waterfall-plot-in-webgl/
-
-Demo: https://jo-m.ch/repos/waterfall-plot-webgl/
 
 ## Some Go Apps and Libs
 
