@@ -12,7 +12,7 @@ Here you can find a selection of my toy projects:
   <img align="center" src="https://github.com/jo-m/trainbot/blob/master/demo.gif" width="150" />
 </a>
 
-## Waterfall plot
+---
 
 <a href="https://github.com/jo-m/waterfall-plot-webgl">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jo-m&repo=waterfall-plot-webgl" />
